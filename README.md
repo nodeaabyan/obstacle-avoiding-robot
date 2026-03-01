@@ -2,6 +2,16 @@
 
 Two fourteen year old kids, in grade 7, decide to build a robot together,specifically an obstacle avoiding robot made with arduino un, but it simply dosen't go to plan, and many imporvisations are done throughout. This was our first time dealing with electrical parts and the journey was harder but more amusing than we anticipiated.
 
+# Parts list
+[Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3/)
+[Motor Shield L293D](https://www.amazon.com/HiLetgo-Driver-Shield-Compatible-Duemilanove/dp/B01DG61YRM/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
+[Ultrasonic Sensor HC-SR04](https://www.amazon.com/AEDIKO-HC-SR04-Ultrasonic-Distance-Arduino/dp/B09BYWHSMJ/ref=sr_1_5?sr=8-5)
+[SG90 Servo](https://www.amazon.com/AYWHP-Helicopter-Drones-Robotics-Control/dp/B0DRHYNHKH/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
+[3.7V 18650 Rechargeable Battery](https://www.amazon.com/QOJH-18650-Rechargeable-Headlamp-Flashlight/dp/B0D7ZXS6V2/ref=sr_1_7_sspa?sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
+[Battery Holder](https://www.amazon.com/Battery-Storage-Parallel-Plastic-Batteries/dp/B098DRV5K1/ref=sr_1_4?sr=8-4)
+
+- Chassis is not included as bought from local shop but come with TT Motor, Wheels, and the switch.
+
 # Struggle
 
 My friend comes to my house to make the robot with me, and as we're going through the components, both of us realise we need a few MAJOR components or else we would get 0 progress done whereas we hope we'd get half at the very least. We live in bangladesh, and since I live in mohammedpur, theres a place called townhall where you can get everyting starting from vegetables to lights. We try looking for the parts we needed such as solder, jumper wires, etc but the first 30 minutes were complete failure. We come to the outskirts of the shop and find the last few electronic shops around a corner, we ask an old uncle if he had what we needed or not, but he pointed to a shop that was temporarily closed because the owner went to pray. Without waiting further, we went to the masjid to pray aswell, and after we return, the shop wasn't opened yet, but we saw another shop opening and asked just in case. We had hit the jackspot, the shop had all the main components so the few small things we needed we easily found. We bought solder, jumper wires (female to female), and soldering flux. 
