@@ -1,10 +1,6 @@
-//ARDUINO OBSTACLE AVOIDING CAR//
-// Before uploading the code you have to install the necessary library//
-//AFMotor Library https://learn.adafruit.com/adafruit-motor-shield/library-install //
-//NewPing Library https://github.com/livetronic/Arduino-NewPing// 
-//Servo Library https://github.com/arduino-libraries/Servo.git //
-// To Install the libraries go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded ZIP files From the Above links //
-// this code works, sensor detects  obtsacle, servo moves correcrtly, and it goes stops and goes back once it detects smt. however the wheels on left are slower leading to continuos turning. (MIGHT BE hardware problem too)- personal issue....//
+//Obstacle Avoiding Robot - Arduino UNO R3 
+//Works properly with the respected model.
+
 
 #include <AFMotor.h>  
 #include <NewPing.h>
