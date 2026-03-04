@@ -4,7 +4,7 @@
 //NewPing Library https://github.com/livetronic/Arduino-NewPing// 
 //Servo Library https://github.com/arduino-libraries/Servo.git //
 // To Install the libraries go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded ZIP files From the Above links //
-
+// this code works, sensor detects  obtsacle, servo moves correcrtly, and it goes stops and goes back once it detects smt. however the wheels on left are slower leading to continuos turning. (MIGHT BE hardware problem too)- personal issue....//
 
 #include <AFMotor.h>  
 #include <NewPing.h>
